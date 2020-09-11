@@ -1,7 +1,7 @@
 ### Hey 👋,i'm [saurabh!]
 
 
-Hi, i'm saurabh kumar, a Full stack developer 🚀 From india.
+Hi, i'm saurabh, a Full stack developer 🚀 From india.
 
 <br />
 <br />
