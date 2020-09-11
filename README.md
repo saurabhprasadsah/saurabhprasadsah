@@ -1,5 +1,15 @@
 ### Hey 👋,i'm [saurabh!]
 
+
+Hi, i'm saurabh kumar, a Full stack developer 🚀 From india.
+
+<br />
+<br />
+
+
+  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+
+
 **Talking about Personal Stuffs:**
 
 
