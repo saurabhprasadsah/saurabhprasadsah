@@ -13,10 +13,10 @@ Hi, i'm saurabh, a Full stack developer 🚀 From india.
 **Talking about Personal Stuffs:**
 
 
-- 👯 I’m looking to collaborate on kick ass products;
-- 💬 Ask me about anything, i am happy to help;
-- 📫 How to reach me:kumarsaurabh2910@gmail.com;
-- ⚡ Fun fact:Anything is possible; 
+- 👯 I’m looking to collaborate on kick ass products.
+- 💬 Ask me about anything, i am happy to help.
+- 📫 How to reach me:kumarsaurabh2910@gmail.com.
+- ⚡ Fun fact:Anything is possible. 
 
 
 **Languages and Tools:**  
