@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm SAURABH PRASAD SAH</h1>
-
-
 Hi, i'm saurabh, a Full stack developer 🚀 From india.
 
-<br />
-<br />
-
   
-  
- <img align="right" height="240" width="400" alt="GIF" src="https://miro.medium.com/max/850/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
+<img align="right" height="240" width="400" alt="GIF" src="https://miro.medium.com/max/850/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 
 
 **Talking about Personal Stuffs:**
@@ -29,12 +23,6 @@ Most used languages across my projects:
 ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B10.3%25)
 ![Perl](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%230298c3&message=Perl%EF%B8%B10.1%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.4%25)
-
-
-
-
-
-
 
 
 **Languages and Tools:**  
