@@ -6,8 +6,6 @@ Hi, i'm saurabh, a Full stack developer 🚀 From india.
 <br />
 <br />
 
-
-  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
   
   
  <img align="right" height="240" width="400" alt="GIF" src="https://miro.medium.com/max/850/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
