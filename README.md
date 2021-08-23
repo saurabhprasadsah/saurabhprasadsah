@@ -7,7 +7,6 @@ Hi, i'm saurabh, a Full stack developer 🚀 From india.
 
 **Talking about Personal Stuffs:**
 
-
 - 👯 I’m looking to collaborate on kick ass products.
 - 💬 Ask me about anything, i am happy to help.
 - 📫 How to reach me:kumarsaurabh2910@gmail.com.
@@ -21,13 +20,8 @@ Most used languages across my projects:
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.9%25)
 ![Objective-C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23438eff&message=Objective-C%EF%B8%B10.5%25)
 ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B10.3%25)
-![Perl](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%230298c3&message=Perl%EF%B8%B10.1%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.4%25)
-
-
 **Languages and Tools:**  
-
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
