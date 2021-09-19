@@ -6,14 +6,11 @@ Hi, i'm saurabh, a Full stack developer 🚀 From india.
 
 
 **Talking about Personal Stuffs:**
-
 - 👯 I’m looking to collaborate on kick ass products.
 - 💬 Ask me about anything, i am happy to help.
 - 📫 How to reach me:kumarsaurabh2910@gmail.com.
 - ⚡ Fun fact:Anything is possible. 
-
 Most used languages across my projects:
-
 ![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B193.6%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B12.6%25)
 ![Assembly](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236E4C13&message=Assembly%EF%B8%B11.4%25)
