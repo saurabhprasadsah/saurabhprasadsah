@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SAURABH PRASAD SAH</h1>
-Hi, i'm saurabh, a Full stack developer 🚀 From india.
+Joined Github 7 years ago.
 
 <img align="right" height="240" width="400" alt="GIF" src="https://miro.medium.com/max/850/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 
@@ -14,7 +14,6 @@ Hi, i'm saurabh, a Full stack developer 🚀 From india.
 ![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B193.6%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B12.6%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.9%25)
-
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.4%25)
 
 **Languages and Tools**  
