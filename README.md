@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAURABH PRASAD SAH</h1>
 Joined Github 7 years ago.
 
+
 <img align="right" height="240" width="400" alt="GIF" src="https://miro.medium.com/max/850/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 
 **Talking about Personal Stuffs**
@@ -9,6 +10,7 @@ Joined Github 7 years ago.
 - 💬 Ask me about anything, i am happy to help.
 - 📫 How to reach me: kumarsaurabh2910@gmail.com.
 - ⚡ Fun fact: Anything is possible.
+![Profile Count](https://komarev.com/ghpvc/?username=saurabhprasadsah) 
 
 **Languages and Tools**  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhprasadsah&theme=merko&layout=compact" alt="Prince-1501's github top languages" />
