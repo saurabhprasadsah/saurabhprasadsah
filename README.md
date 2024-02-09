@@ -10,14 +10,7 @@ Joined Github 7 years ago.
 - 📫 How to reach me: kumarsaurabh2910@gmail.com.
 - ⚡ Fun fact: Anything is possible.
 
-### Most used languages across my projects
-![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B193.6%25)
-![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B12.6%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.9%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.4%25)
-
 **Languages and Tools**  
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhprasadsah&theme=merko&layout=compact" alt="Prince-1501's github top languages" />
 
 
