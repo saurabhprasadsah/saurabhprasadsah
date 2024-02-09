@@ -2,6 +2,7 @@
 Joined Github 7 years ago.
 
 ![Profile Count](https://komarev.com/ghpvc/?username=saurabhprasadsah)
+[![Github](https://img.shields.io/github/followers/saurabhprasadsah?label=Follow&style=social)](https://github.com/saurabhprasadsah)
 
 
 
