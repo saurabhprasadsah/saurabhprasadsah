@@ -18,6 +18,9 @@ Joined Github 7 years ago.
 
 **Languages and Tools**  
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhprasadsah&theme=merko&layout=compact" alt="saurabhprasadsah" github top languages" />
+
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React.js-2088FF?style=flat-square&logo=react)
