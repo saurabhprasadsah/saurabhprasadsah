@@ -11,7 +11,7 @@ Joined Github 7 years ago.
 
 **Talking about Personal Stuffs**
 
-- 👯 I’m looking to collaborate on kick ass products.
+- 👯 I owe much of my career to the Web and Open Source.
 - 💬 Ask me about anything, i am happy to help.
 - 📫 How to reach me: kumarsaurabh2910@gmail.com.
 - ⚡ Fun fact: Anything is possible.
